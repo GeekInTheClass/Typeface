@@ -4,6 +4,8 @@
 ##이론
 
 ## 영화
+- Vertigo
+- Inception
 
 ## 광고
 
